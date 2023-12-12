@@ -13,7 +13,8 @@ This repository contains a GPU-enabled Docker image for running ONNX models in K
 
 ## Usage
 
-1. Pull the image locally: docker pull serdarildercaglar/kubeflow-onnxruntime-gpu:cuda-117-cudnn8-kserve-0.11-kf-jupyter
+1. Pull the image locally: serdarildercaglar/kubeflow-onnxruntime-gpu:cuda-117-cudnn8-kserve-011-kubeflow
+
 
 
 2. Deploy a notebook in your Kubeflow cluster and use the image
